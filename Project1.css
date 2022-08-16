@@ -1,4 +1,10 @@
-.headerbox {
+.headbox {
     background-color: #1F2937;
     height: 750px;
+    display: flex;
+    color: #F9FaF8;
+}
+
+.headerlist {
+    display: inline-flex;
 }
