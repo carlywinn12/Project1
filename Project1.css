@@ -71,10 +71,14 @@
     height: 200px;
 }
 
-.signup div{
+.signup h3 {
     background-color: #3882f6;
-    width: 75px;
-    padding-left: 25px;
+    width: 85px;
+    height: 30px;
+    margin-left: 50px;
+    padding-left: 0px;
+    text-align: center;
+    border-radius: 7px;
 }
 
 .info {
@@ -207,23 +211,18 @@
     color: white;
     padding-top: 20px;
     margin-left: 250px;
-    grid-column-start: 1;
-    grid-column-end: 2;
 }
 
 .actioncall h4 {
     color: white;
     padding-left: 250px;
-    grid-column-start: 1;
-    grid-column-end: 2;
+    
  
    
 }
 
 .actioncall h3 {
     color: white;
-    grid-column-start: 2;
-    grid-column-end: 3;
     margin-bottom: 50px;
 }
 
@@ -235,5 +234,4 @@
     border-radius: 15px;
     text-align: center;
     text-justify: center;
-    grid-column-start: 2;
 }
